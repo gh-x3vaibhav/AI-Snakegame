@@ -64,7 +64,7 @@ Our Project will be divided into three Modules named <b>Agent, Game and Model</b
     ```
 2. Run the Python file:
    ```commandline
-   streamlit run snake_game.py
+   python snake_game.py
    ```
 
 
